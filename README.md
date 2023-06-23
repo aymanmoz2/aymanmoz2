@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @aymanmoz2
 - 👀 I’m interested in programing embeded system
 - 🌱 I’m currently learning linux and other stuff
-- 💞️ I’m looking to collaborate on litel proects 
+- 💞️ I’m looking to collaborate on littel proects 
 - 📫 How to reach me email: aymanmezghani@yahoo.fr
 
 <!---
